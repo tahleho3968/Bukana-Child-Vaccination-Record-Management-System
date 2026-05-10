@@ -1,0 +1,53 @@
+# Compiled Object files
+*.o
+*.obj
+*.exe
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.out
+*.app
+Bukana-Child-Vaccination-Record-Management-System
+bukana_health
+
+# IDE files
+*.cbp
+*.depend
+*.layout
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files with potentially sensitive information
+# Uncomment these if you don't want to share sample data
+# children.dat
+# vaccinations.dat
+# medicals.dat
+# nurses.dat
+# doctors.dat
+# AuditLog.txt
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# LaTeX auxiliary files
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.synctex.gz
